@@ -1,5 +1,5 @@
 import React from "react";
-import CardComp from "../components/my-cards/CardsComp";
+import CardComp from "../components/my-cards/CardComp";
 
 function AllCardsPage() {
   const [allCards, setAllCards] = React.useState([]);
